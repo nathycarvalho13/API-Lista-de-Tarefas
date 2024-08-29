@@ -1,8 +1,9 @@
-Lista de Tarefas - Projeto Fullstack
+<h2>Lista de Tarefas - Projeto Fullstack</h2>
 
-<h3>Este projeto é uma aplicação fullstack para gerenciar uma lista de tarefas. Ele inclui um backend desenvolvido com Node.js e Express, utilizando MongoDB como banco de dados, e um frontend desenvolvido com JavaScript, HTML e CSS. 
+<h4>Este projeto é uma aplicação fullstack para gerenciar uma lista de tarefas. Ele inclui um backend desenvolvido com Node.js e Express, utilizando MongoDB como banco de dados, e um frontend desenvolvido com JavaScript, HTML e CSS. 
+
   
-  A API backend permite a criação, leitura, atualização e exclusão de tarefas, e o frontend consome essa API para exibir e interagir com as tarefas de maneira intuitiva para o usuário.</h3>
+A API backend permite a criação, leitura, atualização e exclusão de tarefas, e o frontend consome essa API para exibir e interagir com as tarefas de maneira intuitiva para o usuário.</h4>
 
 Tecnologias Utilizadas
 
