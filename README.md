@@ -5,6 +5,9 @@
   
 A API backend permite a criação, leitura, atualização e exclusão de tarefas, e o frontend consome essa API para exibir e interagir com as tarefas de maneira intuitiva para o usuário.</h4>
 
+![tarefa teste](https://github.com/user-attachments/assets/779f65b7-4787-4196-a490-0bd783c442c7)
+
+
 Tecnologias Utilizadas
 
 Backend
